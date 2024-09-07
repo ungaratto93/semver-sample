@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/ungaratto93/semver-sample/compare/v1.1.0...v1.2.0) (2024-09-07)
+
+
+### Features
+
+* another foo bar feat ([adb43cb](https://github.com/ungaratto93/semver-sample/commit/adb43cbe61f8cb6edffa13432e0bad740684fc25))
+* another foo bar feat ([3746007](https://github.com/ungaratto93/semver-sample/commit/3746007588adbb9df481eb236ca286175d5fb4d6))
+
 # [1.1.0](https://github.com/ungaratto93/semver-sample/compare/v1.0.1...v1.1.0) (2024-09-07)
 
 
