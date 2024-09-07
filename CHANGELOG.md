@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ungaratto93/semver-sample/compare/v1.0.1...v1.1.0) (2024-09-07)
+
+
+### Features
+
+* continue foo feature ([bd290cd](https://github.com/ungaratto93/semver-sample/commit/bd290cd218f502e76fd50a990cecb1a1cf68ab38))
+
 ## [1.0.1](https://github.com/ungaratto93/semver-sample/compare/v1.0.0...v1.0.1) (2024-09-07)
 
 
