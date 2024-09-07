@@ -4,14 +4,13 @@ Repositorio para testar o uso de versionamento semantico
 
 ### Exemplos
 
-<type>[optional scope]: <description>
-[optional body]
-[optional footer(s)]
+* feat: add some minor feature
 
-feat: add some minor feature
-feat!: add some major feature
-fix: some bug fix
-chore: changes that do not affect the code
+* feat!: add some major feature
+
+* fix: some bug fix
+
+* chore: changes that do not affect the code
 
 
 ### Links 
