@@ -2,6 +2,8 @@
 
 Repositorio para testar o uso de versionamento semantico
 
+
+
 ### Exemplos
 
 * feat: add some minor feature
@@ -38,4 +40,5 @@ https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-
 
 xpot
 
+xpto
 
