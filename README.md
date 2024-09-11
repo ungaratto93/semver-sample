@@ -3,6 +3,7 @@
 Repositorio para testar o uso de versionamento semantico
 
 
+
 ### Exemplos
 
 * feat: add some minor feature
