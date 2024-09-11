@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/ungaratto93/semver-sample/compare/v1.2.0...v1.3.0) (2024-09-11)
+
+
+### Bug Fixes
+
+* foo ([bd1870a](https://github.com/ungaratto93/semver-sample/commit/bd1870ac2334a339c9ac094eafb8a0333e5d780c))
+
+
+### Features
+
+* continue foo feature ([1138e32](https://github.com/ungaratto93/semver-sample/commit/1138e32b326647fd592386a91c5ce8da96721e81))
+* foo feature ([b512622](https://github.com/ungaratto93/semver-sample/commit/b512622bc0a050325672fd3fb84d9aa08defd014))
+
 # [1.2.0](https://github.com/ungaratto93/semver-sample/compare/v1.1.0...v1.2.0) (2024-09-07)
 
 
